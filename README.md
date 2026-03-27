@@ -10,7 +10,7 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
 
 ## Stack Técnica
 
-## Linguagens
+### Linguagens
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -20,7 +20,7 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-## Frameworks
+### Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -29,7 +29,7 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-## Bancos de Dados
+### Bancos de Dados
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -41,7 +41,7 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
   <img src="https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-## IA
+### IA
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -50,13 +50,13 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-## Cloud
+### Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-## Toolchain DevOps 
+### Toolchain DevOps 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -69,7 +69,7 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-## Ferramentas gerais
+### Ferramentas gerais
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
