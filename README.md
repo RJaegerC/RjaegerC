@@ -87,7 +87,7 @@ de softwares desde a base como system design, até mais diversas áreas de atua�
 
 ## Contato
 
-👥 Currículo: https://drive.google.com/file/d/1YxTTRhH32REGkA8-gcrvA6CrIZRsjpf2/view?usp=sharing
+👥 Currículo: https://drive.google.com/file/d/1poNcSSlXEbmXp8-kF6rDKoQZK30XBy9_/view?usp=sharing
 
 🌐 Linkedin: www.linkedin.com/in/ravicyrillo
 
